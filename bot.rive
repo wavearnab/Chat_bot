@@ -1,0 +1,12 @@
+// conversation script is below
+// "start" auto-runs to begin the bot conversation 
+
++ hello 
+- Hello. I am a random bot with little to say.
+
++ what is your name
+- My name is Alex,
+
+
++ *
+- Sorry, I don't understand that.
